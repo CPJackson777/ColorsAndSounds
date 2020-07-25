@@ -9,3 +9,6 @@ class Car:
     def turn(self, direction):
       self.direction = direction
       print (f"Car is now turning {self.direction}!")
+
+    def stop(self):
+      print ("STOPPING!!!!")
