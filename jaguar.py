@@ -9,3 +9,7 @@ class Jaguar(Car):
   def turn(self, direction):
     self.direction = direction
     print (f"This Jaguar is turning {self.direction}!")
+
+  def stop(self):
+    self.direction = direction
+    print (f"This Jaguar is coming to a stop now.")
