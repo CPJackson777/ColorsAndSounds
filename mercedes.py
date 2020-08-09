@@ -10,3 +10,6 @@ class MB(Car):
     def turn(self, direction):
       self.direction = direction
       print (f"I'm turning {self.direction}!")
+
+    def stop(self):
+      self.direction = direction
