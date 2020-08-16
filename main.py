@@ -19,3 +19,12 @@ from rezvani import MB
 #     self.top_speed = top_speed
 #   def drive(self):
 #     print(f"I'm driving in my {self.make} La la la la la")
+
+# Create an instance of each vehicle.
+# Define a different value for each vehicle's properties.
+
+# car1 = Vehicle("Porsche", "Black", 140)
+# car2 = Vehicle("Jaguar", "Gray", 100)
+# car3 = Vehicle("Audi", "Red", 110)
+# car4 = Vehicle("BMW", "White", 120)
+# car5 = Vehicle("Subaru", "Blue", 200)
