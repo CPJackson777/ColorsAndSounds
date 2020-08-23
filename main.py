@@ -36,3 +36,8 @@ f_type = Jaguar()
 amg = MB()
 ghibli = Maserati()
 tank = Rezvani()
+
+f_type.drive()
+amg.drive()
+ghibli.drive()
+tank.drive()
