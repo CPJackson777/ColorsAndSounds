@@ -31,3 +31,19 @@ from rezvani import MB
 
 # Create a drive() method in the Vehicle class.
 # Override the drive() method in all the other vehicle classes. Include the vehicle's color in the message (i.e. "The blue Ram drives past. RRrrrrrummbbble!").
+
+f_type = Jaguar()
+amg = MB()
+ghibli = Maserati()
+tank = Rezvani()
+
+f_type.drive()
+amg.drive()
+ghibli.drive()
+tank.drive()
+
+f_type.turn("left")
+f_type.stop()
+
+amg.turn("left")
+amg.stop()
