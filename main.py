@@ -23,11 +23,11 @@ from rezvani import MB
 # Create an instance of each vehicle.
 # Define a different value for each vehicle's properties.
 
-# car1 = Vehicle("Porsche", "Black", 140)
-# car2 = Vehicle("Jaguar", "Gray", 100)
-# car3 = Vehicle("Audi", "Red", 110)
-# car4 = Vehicle("BMW", "White", 120)
-# car5 = Vehicle("Subaru", "Blue", 200)
+car1 = Vehicle("Porsche", "Black", 140)
+car2 = Vehicle("Jaguar", "Gray", 100)
+car3 = Vehicle("Audi", "Red", 110)
+car4 = Vehicle("BMW", "White", 120)
+car5 = Vehicle("Subaru", "Blue", 200)
 
 # Create a drive() method in the Vehicle class.
 # Override the drive() method in all the other vehicle classes. Include the vehicle's color in the message (i.e. "The blue Ram drives past. RRrrrrrummbbble!").
